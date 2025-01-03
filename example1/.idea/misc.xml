@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../example2/pom.xml" />
+        <option value="$PROJECT_DIR$/../example4/pom.xml" />
+        <option value="$PROJECT_DIR$/../example5/pom.xml" />
+        <option value="$PROJECT_DIR$/../example7/pom.xml" />
+        <option value="$PROJECT_DIR$/../example9/pom.xml" />
+        <option value="$PROJECT_DIR$/../example10/pom.xml" />
+        <option value="$PROJECT_DIR$/../example11/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_12/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_14/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_17/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_18/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_19/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_20/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_21/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../example10/pom.xml" />
+        <option value="$PROJECT_DIR$/../example11/pom.xml" />
+        <option value="$PROJECT_DIR$/../example2/pom.xml" />
+        <option value="$PROJECT_DIR$/../example4/pom.xml" />
+        <option value="$PROJECT_DIR$/../example5/pom.xml" />
+        <option value="$PROJECT_DIR$/../example7/pom.xml" />
+        <option value="$PROJECT_DIR$/../example9/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_12/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_14/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot udemy/spring-3.3.1/example_17/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
